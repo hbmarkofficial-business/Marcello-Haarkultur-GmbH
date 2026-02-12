@@ -137,7 +137,7 @@ export const Footer = () => {
       <div className="border-t border-border">
         <div className="container mx-auto px-4 py-6 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-muted-foreground text-sm">
-            © {currentYear} Marcello Haarkultu. Alle Rechte vorbehalten.
+            © {currentYear} Marcello Haarkultur. Alle Rechte vorbehalten.
           </p> 
           <div className="flex gap-6 text-sm">
             <Link to="/impressum" className="text-muted-foreground hover:text-primary transition-colors">
